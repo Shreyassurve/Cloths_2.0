@@ -8,7 +8,7 @@ const products = {
     { id: 3, name: "Pleated Skirt", price: 29.50, rating: 4.0, reviews: 75, image: "Women5.webp", sizes: ["M", "L"], colors: ["#b53471", "#1e90ff"] }
   ],
   men: [
-    { id: 4, name: "Linen Shirt", price: 40.00, rating: 4.4, reviews: 110, image: "men1.jpg", sizes: ["M", "L", "XL"], colors: ["#00cec9", "#0984e3"] },
+    { id: 4, name: "Linen Shirt", price: 40.00, rating: 4.4, reviews: 110, image: "Men1.jpg", sizes: ["M", "L", "XL"], colors: ["#00cec9", "#0984e3"] },
     { id: 5, name: "Casual Jacket", price: 60.00, rating: 4.6, reviews: 95, image: "Men2.webp", sizes: ["M", "L", "XL"], colors: ["#2d3436", "#636e72"] },
     { id: 6, name: "Slim Jeans", price: 45.00, rating: 4.3, reviews: 100, image: "Men4.avif", sizes: ["30", "32", "34"], colors: ["#2c3e50", "#34495e"] }
   ],
